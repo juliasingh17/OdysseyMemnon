@@ -1,2 +1,2 @@
 # OdysseyMemnon
-Collection of sources about the Odyssey and Memnon
+A collection of citations about Memnon, King of Aetheopia, in the *Odyssey*.
